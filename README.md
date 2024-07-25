@@ -1,3 +1,15 @@
+USERNAME :-admin
+Password:-password
+
+
+
+
+
+
+
+
+
+
 # EmployeeManagmentSystem
 1) Overview:-
 The Employee Management System is a web application designed to manage a list of employees, allowing users to perform CRUD (Create, Read, Update, Delete) operations. The application also includes functionalities such as session management for user login and file uploading for employee profile pictures.
